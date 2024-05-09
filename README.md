@@ -22,3 +22,4 @@ Chạy lệnh: node index.js để khởi động máy chủ.
 
 Kiểm tra API bằng cách truy cập vào các tuyến đường đã định nghĩa trong trình duyệt hoặc sử dụng các công cụ như Postman.
 
+LƯU Ý: Demo này có sử dụng mysql để kết nối database.
